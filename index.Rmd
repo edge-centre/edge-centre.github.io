@@ -1,11 +1,10 @@
 ---
 title: "Edge/Centre Research Program"
-output: html_document
+output: 
+  html_document:
+      theme: spacelab
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 #### - Education - Human Services - Arts - Imagination - Research - Practice -
 
 ![](https://raw.githubusercontent.com/michael-emslie/Edge-Centre.github.io/master/Screenshot%20(10).png)
@@ -92,10 +91,10 @@ In ‘Philosophy and the Event’ Badiou suggests that change doesn’t happen i
 
 Have a question? Want to learn more? Interested in getting involved? Like us to deliver a professional development workshop or research seminar? Please contact us:
 
-**Dr Michael Crowhurst** <br>
+>**Dr Michael Crowhurst** <br>
 michael.crowhurst@rmit.edu.au <br>
 
-**Dr Michael Emslie** <br>
+>**Dr Michael Emslie** <br>
 michael.emslie@rmit.edu.au <br>
 
 ---
