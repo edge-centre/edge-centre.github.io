@@ -14,7 +14,7 @@ output:
 
 ### Introducing the Edge/Centre Research Program
 
-The Edge/Centre continues over 25-years of research and social action collaborations that have transformed into the productive research program that we call the Edge/Centre. Aspects of the history of this work are documented and includes hosting conferences, community development activities, facilitation of workshops, lobbying, delivery of art-based sessions, participation on steering committees, activism, conference presentations, providing professional development, writing submissions, research projects, and writing, e.g., Crowhurst and Emslie, 2020, 2018, 2014, 2003, 2000a, 2000b. <br>
+The Edge/Centre includes over 25-years of research and social action collaborations that have transformed into the productive research program that we now call the Edge/Centre. Aspects of the history of this work are documented and includes hosting conferences, community development activities, facilitation of workshops, lobbying, delivery of art-based sessions, participation on steering committees, activism, conference presentations, providing professional development, writing submissions, research projects, and writing, e.g., Crowhurst and Emslie, 2020, 2018, 2014, 2003, 2000a, 2000b. <br>
 
 The Edge/Centre is a space of collaborative scholarly endeavours and creatively designed intellectual pursuits. The Edge/Centre maintains a key focus on investigating and deploying creative research methods and innovative knowledge practices to generate and enhance the possibilities for imaginative ethical professional practice in human services, education and the arts. <br>
 
@@ -30,15 +30,42 @@ The Edge/Centre is an idea and a space we inhabit intellectually, emotionally, a
 
 The Edge/Centre involves intentionally locating intellectual, emotional and physical labour on the margins. For example, we situate our research and writing as being on the edge of what is typical, prevailing, mainstream, aligned, assumed and expected. Our work is deliberately done on the margins, not in the centre of things, and does not seek to follow mainstream agendas because we find many aspects of these problematic. <br> 
 
+>‘We think we write from an edge, an edge that is quirky and different and where our marginality allows for, generates and affords other interesting kinds of connection…[One thing our work] is about storying edges and the generative possibilities that marginality can offer (Crowhurst and Emslie, 2020, p. 6).
+
 The Edge/Centre is an alternative space, a place of difference, that is ‘out there’, edgy, that involves doing edginess, pushing boundaries, and doing things in unexpected and not what is expected or assumed ways. The Edge/Centre also functions as a form of support where edgy work is validated and celebrated. <br>
 
-The Edge/Centre is a ‘pleasurable non-normative space’ that we claim, occupy, inhabit, are captured by, are drawn to and purposefully build as an alternative to the existing  middle or neoliberal centre (Crowhurst and Emslie, 2020, p. 23). An example of the effects generated on account of this inhabitation in our writing (Crowhurst and Emslie,2020, p. 6) is that,
+The Edge/Centre is a ‘pleasurable non-normative space’ that we claim, occupy, inhabit, are captured by, are drawn to and purposefully build as an alternative to the existing  middle or neoliberal centre (Crowhurst and Emslie, 2020, p. 23). An example of the effects generated on account of inhabiting the Edge/Centre is the form that our writng takes. <br>
 
->‘This edginess is reflected in the texts’ style and in its eclecticism, in its tone, and in its voice and register’. 
+>‘This edginess is reflected in the texts’ style and in its eclecticism, in its tone, and in its voice and register’ (Crowhurst and Emslie, 2020, p. 6). 
 
-And as we argue,
+---
 
->‘We think we write from an edge, an edge that is quirky and different and where our marginality allows for, generates and affords other interesting kinds of connection…[One thing our work] is about storying edges and the generative possibilities that marginality can offer (Crowhurst and Emslie, 2020, p. 6).
+### Look at me Christmas!
+
+In December each year <br>
+The children would line up <br>
+Toffee apples and smiles <br>
+Gifts for miles and miles <br>
+
+Chorus: <br>
+So much Christmas! <br>
+Shiny, shiny Christmas! <br>
+Look at me Christmas! <br>
+Christmas, we become <br>
+
+All anticipating Christmas <br>
+It couldn’t come fast enough <br>
+Only 25 sleeps to go <br>
+Of Rudolph, elves, sleighs, and snow <br>
+
+(Chorus) <br>
+
+The Christmas windows sparkled <br>
+All green and white and red <br>
+Rudolph loved those windows <br>
+The way they drew attention to the red shiny red nose on his furry head <br>
+
+(Chorus) <br>
 
 ---
 
@@ -111,6 +138,6 @@ michael.emslie@rmit.edu.au <br>
 
 [Crowhurst, M. & Emslie, M. (eds) 2000a Young People and Sexualities: Experiences, Perspectives and Service Provision: Papers from a Community Conference exploring issues affecting gay, lesbian, bisexual and transgender young people; October 1998, Youth Research Centre, University of Melbourne, Melbourne.](https://www.researchgate.net/publication/262451598_Young_People_and_Sexualities_Experiences_Perspectives_and_Service_Provision_Papers_from_a_Community_Conference_exploring_issues_affecting_gay_lesbian_bisexual_and_transgender_young_people_October_1998) <br>
 
-[Crowhurst, M. & Emslie, M. 2000b. Context: A Model for Action Around Issues Affecting gay, Lesbian, Bisexual and Transgender Teachers and Student’, delivered to the Australian Association for Research in Education (AARE) Conference ‘Education Research: Towards an Optimistic Future’, Sydney 2000.](https://www.researchgate.net/publication/317099886_Context_A_Model_for_Action_Around_Issues_Affecting_gay_Lesbian_Bisexual_and_Transgender_Teachers_and_Student) <br>
+[Crowhurst, M. & Emslie, M. 2000b. Context: A Model for Action Around Issues Affecting gay, Lesbian, Bisexual and Transgender Teachers and Students, delivered to the Australian Association for Research in Education (AARE) Conference ‘Education Research: Towards an Optimistic Future’, Sydney 2000.](https://www.researchgate.net/publication/317099886_Context_A_Model_for_Action_Around_Issues_Affecting_gay_Lesbian_Bisexual_and_Transgender_Teachers_and_Student) <br>
 
 ---
