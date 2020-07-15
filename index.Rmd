@@ -5,7 +5,7 @@ output:
       theme: spacelab
 ---
 
-#### - Education - Human Services - Arts - Imagination - Research - Practice -
+#### - Education - Human Services - Arts - Imagination - Research - Practice - now
 
 ![](https://raw.githubusercontent.com/michael-emslie/Edge-Centre.github.io/master/Screenshot%20(10).png)
 <br>
