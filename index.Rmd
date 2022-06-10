@@ -1,8 +1,9 @@
 ---
 title: "Edge/Centre Research Program"
-output: 
+output:
+  pdf_document: default
   html_document:
-      theme: spacelab
+    theme: spacelab
 ---
 
 #### - Education - Human Services - Arts - Imagination - Research - Practice -
